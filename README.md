@@ -41,9 +41,9 @@ This project analyzes customer purchasing trends and behaviors in the chips cate
 ## **Objective**
 The main goal of this project is to:
 
-### - Understand customer purchasing behaviors.
-### - Analyze customer segments and their preferences for chips.
-### - Derive actionable insights to optimize sales and marketing strategies.
+#### - Understand customer purchasing behaviors.
+#### - Analyze customer segments and their preferences for chips.
+#### - Derive actionable insights to optimize sales and marketing strategies.
 
 ## Data Overview
 ### 1. Purchase Behavior Dataset (QVI_purchase_behaviour.csv)
