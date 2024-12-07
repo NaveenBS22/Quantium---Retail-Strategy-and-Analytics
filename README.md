@@ -63,4 +63,4 @@ Structure:
 #### Popular Pack Sizes (by Sales):
 - 110g: Generates the highest revenue, contributing 162,765.
 - 134g: Close second with 177,656.
-**Smaller pack sizes like 70g and 90g are less popular, indicating customers prefer medium to large pack sizes.**
+- **Smaller pack sizes like 70g and 90g are less popular, indicating customers prefer medium to large pack sizes.**
