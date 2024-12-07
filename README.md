@@ -3,10 +3,10 @@
 This project analyzes customer purchasing trends and behaviors in the chips category to provide actionable insights for Julia, the Category Manager. The analysis leverages transaction and customer data to identify key patterns, segment customer preferences, and recommend data-driven strategies.
 
 ## Technologies Used
-- 1. Python: Data analysis and feature engineering.
-- 2. Pandas & NumPy: Data manipulation.
-- 3. Matplotlib & Seaborn: Data visualization.
-- 4. Jupyter Notebook: Interactive environment for analysis.
+- Python: Data analysis and feature engineering.
+- Pandas & NumPy: Data manipulation.
+- Matplotlib & Seaborn: Data visualization.
+- Jupyter Notebook: Interactive environment for analysis.
  
 ## Data Sources
 - **QVI_transaction_data:** Contains details on purchases, including product names, sales, and quantities.
