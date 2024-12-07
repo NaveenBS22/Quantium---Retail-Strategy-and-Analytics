@@ -2,6 +2,16 @@
 ## **Overview**
 This project analyzes customer purchasing trends and behaviors in the chips category to provide actionable insights for Julia, the Category Manager. The analysis leverages transaction and customer data to identify key patterns, segment customer preferences, and recommend data-driven strategies.
 
+## Technologies Used
+- 1. Python: Data analysis and feature engineering.
+- 2. Pandas & NumPy: Data manipulation.
+- 3. Matplotlib & Seaborn: Data visualization.
+- 4. Jupyter Notebook: Interactive environment for analysis.
+ 
+## Data Sources
+- **QVI_transaction_data:** Contains details on purchases, including product names, sales, and quantities.
+- **QVI_purchase_behaviour:** Includes customer life stages and premium membership status.
+
 ## **Objective**
 The main goal of this project is to:
 
@@ -73,3 +83,20 @@ Structure:
 - Pringles: Also significant at 177,656.
   
 These brands likely dominate due to strong brand recognition or premium offerings.
+
+## Strategic Recommendations for Julia
+### 1. Focus on High-Performing Segments:
+
+- Retain and deepen engagement with older families and older singles/couples by promoting larger pack sizes or combo deals.
+
+### 2. Opportunities in Underperforming Segments:
+
+- Target young singles/couples in the Premium category through targeted advertising or campaigns emphasizing convenience and indulgence.
+
+### 3. Pack Size Optimization:
+
+- Ensure stock availability for 110g and 134g packs. Consider offering discounts or value packs for these sizes to capitalize on demand.
+
+### 4. Brand Partnerships:
+
+- Collaborate with top-performing brands (Kettle, Smiths, Doritos) for exclusive offers or promotions.
