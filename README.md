@@ -26,6 +26,7 @@ This project analyzes customer purchasing trends and behaviors in the chips cate
 #### Visualizations:
 
 - Use charts (e.g., bar plots, pie charts) to present findings like:
+  
       - Contribution of each segment to sales.
       - Preferences for pack sizes and brands.
 
