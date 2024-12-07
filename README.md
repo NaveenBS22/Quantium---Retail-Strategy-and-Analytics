@@ -7,6 +7,34 @@ This project analyzes customer purchasing trends and behaviors in the chips cate
 - Pandas & NumPy: Data manipulation.
 - Matplotlib & Seaborn: Data visualization.
 - Jupyter Notebook: Interactive environment for analysis.
+
+## Steps to Complete the Analysis:
+### Data Cleaning:
+
+#### Remove outliers and incorrect data (e.g., transactions with unusually high or low values).
+- Ensure all columns are in the correct data type (e.g., dates, numeric formats).
+
+#### Feature Engineering:
+
+- Derive pack_size from product names (e.g., "Salted Chips 150g" → 150).
+- Extract brand_name for product-level analysis.
+
+#### Descriptive Statistics:
+
+- Calculate summary statistics for key metrics like sales and transaction volume.
+
+#### Visualizations:
+
+- Use charts (e.g., bar plots, pie charts) to present findings like:
+      - Contribution of each segment to sales.
+      - Preferences for pack sizes and brands.
+
+#### Strategic Recommendations:
+
+- Based on the findings, propose actionable strategies for Julia, such as:
+    - Focusing on high-value segments.
+    - Promoting specific brands or pack sizes to target underperforming segments.
+    - Offering discounts on slower-moving products.
  
 ## Data Sources
 - **QVI_transaction_data:** Contains details on purchases, including product names, sales, and quantities.
