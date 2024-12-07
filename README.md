@@ -50,11 +50,17 @@ Structure:
 ## Insights Based on Analysis
 ### 1. Sales by Customer Segment
 #### Top Performing Segments:
-- Older families and older singles/couples contribute the most sales across all premium categories:
+- **Older families and older singles/couples contribute the most sales across all premium categories:**
       - Older Families: Budget (168,363), Mainstream (103,445), Premium (81,958).
       - Older Singles/Couples: Budget (136,770), Mainstream (133,394), Premium (132,263).
 
-- Retirees and young families also show significant contributions.
+- **Retirees and young families also show significant contributions.**
 
 #### Target Segments for Growth:
 - Young singles/couples in the Premium category represent a smaller contribution (41,642). Strategies targeting this segment could unlock new opportunities.
+
+### 2. Pack Size Preferences
+#### Popular Pack Sizes (by Sales):
+- 110g: Generates the highest revenue, contributing 162,765.
+- 134g: Close second with 177,656.
+**Smaller pack sizes like 70g and 90g are less popular, indicating customers prefer medium to large pack sizes.**
