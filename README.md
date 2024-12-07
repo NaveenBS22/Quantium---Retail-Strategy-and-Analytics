@@ -45,6 +45,30 @@ The main goal of this project is to:
 #### - Analyze customer segments and their preferences for chips.
 #### - Derive actionable insights to optimize sales and marketing strategies.
 
+## Key Goals
+### 1. Analyze Purchasing Trends and Behaviors:
+
+- Understand overall purchasing trends in the chips category (e.g., total sales, product popularity).
+- Evaluate how purchasing varies across customer segments.
+
+### 2. Customer Segmentation Analysis:
+
+- Group customers by attributes such as LIFESTAGE (e.g., young families, retirees) and PREMIUM_CUSTOMER status (e.g., budget, mainstream, premium).
+- Understand how each segment contributes to sales.
+
+### 3. Product Preferences:
+
+- Identify popular pack sizes (e.g., 110g, 150g) that customers prefer.
+- Determine which brands dominate sales in each segment.
+
+### 4. Metrics to Calculate:
+
+- Total sales per customer segment.
+- Average sales per transaction for each segment.
+- Purchase frequency or the number of transactions per segment.
+- Pack size distribution among different segments.
+- Brand preferences by sales and segment.
+
 ## Data Overview
 ### 1. Purchase Behavior Dataset (QVI_purchase_behaviour.csv)
 Structure:
