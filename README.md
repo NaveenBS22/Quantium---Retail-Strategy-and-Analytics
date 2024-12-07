@@ -46,3 +46,15 @@ Structure:
 
 - Highlight customer segments driving the most sales.
 - Identify trends in product and pack-size preferences.
+
+## Insights Based on Analysis
+### 1. Sales by Customer Segment
+#### Top Performing Segments:
+- Older families and older singles/couples contribute the most sales across all premium categories:
+      - Older Families: Budget (168,363), Mainstream (103,445), Premium (81,958).
+      - Older Singles/Couples: Budget (136,770), Mainstream (133,394), Premium (132,263).
+
+- Retirees and young families also show significant contributions.
+
+#### Target Segments for Growth:
+- Young singles/couples in the Premium category represent a smaller contribution (41,642). Strategies targeting this segment could unlock new opportunities.
