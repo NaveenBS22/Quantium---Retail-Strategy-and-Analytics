@@ -64,3 +64,12 @@ Structure:
 - 110g: Generates the highest revenue, contributing 162,765.
 - 134g: Close second with 177,656.
 - **Smaller pack sizes like 70g and 90g are less popular, indicating customers prefer medium to large pack sizes.**
+
+### 3. Brand Preferences
+#### Top Brands (by Sales):
+- Kettle: Dominates with total sales of 390,239.
+- Smiths: Second highest with 210,077.
+- Doritos: Close third with 201,539.
+- Pringles: Also significant at 177,656.
+  
+These brands likely dominate due to strong brand recognition or premium offerings.
